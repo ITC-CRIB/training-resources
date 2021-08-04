@@ -5,7 +5,7 @@ This is a curated list of training materials for popular packages that are used 
 
 ### Common Resources for Geo Spatial Observation and Geo Informatics Systems
 
-These are links to resources that have tutorials/courses for Geo Spatial comouting and analyses. 
+These are links to resources that have tutorials/courses for Geo Spatial computing and analyses. 
 
 - [GeoHackWeek 2017 Materials](https://github.com/geohackweek/tutorial_contents) - Materials from GeohackWeek which happened in University of Washington in 2017.
 - [Python GeoSpatial Analysis Cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook) - Over 60 python recipes to perform spatial operations and build an indoor routing Django web application 
