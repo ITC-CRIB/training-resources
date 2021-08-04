@@ -7,9 +7,10 @@ This is a curated list of training materials for popular packages that are used 
 
 These are links to resources that have tutorials/courses for Geo Spatial computing and analyses. 
 
+- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial analysis tools
 - [GeoHackWeek 2017 Materials](https://github.com/geohackweek/tutorial_contents) - Materials from GeohackWeek which happened in University of Washington in 2017.
 - [Python GeoSpatial Analysis Cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook) - Over 60 python recipes to perform spatial operations and build an indoor routing Django web application 
-- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial analysis tools
+- [Intro to GeoSpatial Data using Python](https://developer.ibm.com/learningpaths/data-analysis-using-python/introduction-to-geospatial-data-using-python/) - Introduction to geospatial data and its types, vector and raster, and work with geospatial data using Python.
 - [Automating GIS Processes](https://automating-gis-processes.github.io/site/index.html) - A course on how to do different GIS-related tasks in Python programming language. Has lessons with tutorials on specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools.
 - [Geo Python](https://geo-python-site.readthedocs.io/en/latest/) - The Geo-Python course contains basic concepts of programming and scientific data analysis using the Python. Targeted at beginners with no previous programming experience needed.
 - [Parallel Python - Analyzing large Datasets](https://github.com/pydata/parallel-tutorial) - Parallel computing in Python tutorial materials.
@@ -49,6 +50,8 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [LearnEO](https://www.learn-eo.org/index.php) - Learn Earth Observation with ESA.
 - [EOPortal Directory](https://earth.esa.int/web/eoportal/home) - Earth Observation resources by ESA.
 - [Cate](https://climate.esa.int/en/explore/analyse-climate-data/) - The CCI Climate Analysis Toolbox (Cate) is a cloud-enabled computing environment for analysing, processing and visualising all ESA Climate Change Initiative datasets. Cate works by mashing ECV data and other data sources into a common data model. Users operate on this model, then analyse, process, and visualise the results.
+- [Intro to GeoSpatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
+- [Spatial Data Analysis with PySAL](https://www.youtube.com/watch?v=i9TRi7r3NxM) - SciPy 2020 Video Tutorial.
 
 ### Dask 
 
