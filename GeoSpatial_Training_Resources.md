@@ -2,8 +2,30 @@
 
 This is a curated list of training materials for popular packages that are used in Geo Spatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (for example - R). If you need resources for any particular package, please contact us so we can update the list accordingly. 
 
+## Contents
 
-### Common Resources for Geo Spatial Observation and Geo Informatics Systems
+- [Common Resources for Geo Spatial Computing](#general)
+- [Dask](#dask)
+- [Xarray](#xarray)
+- [GeoPandas](#geopandas)
+- [RasterIO](#raster)
+- [Plotly](#plotly)
+- [NumPy](#numpy)
+- [Matplotlib](#matplotlib)
+- [PySAL](#PySAL)
+- [Miscellaneous Packages](#misc)
+    - [Fiona](#fiona)
+    - [Xarray Spatial](#xarrayspatial)
+    - [Rio-Xarray](#rioxarray)
+    - [RegionMask](#regionmask)
+    - [Geocube](#geocube)
+    - [Salem](#salem)
+
+Resources for these packages will be added soon - pandas, scikit-learn, matplotlib, seaborn, cartopy
+
+<hr><hr>
+
+### Common Resources for Geo Spatial Observation and Geo Informatics Systems <a name="general"></a>
 
 These are links to resources that have tutorials/courses for Geo Spatial computing and analyses. 
 
@@ -53,7 +75,7 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [Intro to GeoSpatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
 - [Spatial Data Analysis with PySAL](https://www.youtube.com/watch?v=i9TRi7r3NxM) - SciPy 2020 Video Tutorial.
 
-### Dask 
+### Dask <a name="dask"></a>
 
 Dask is a flexible library for parallel computing in Python.
 
@@ -72,7 +94,7 @@ Dask is composed of two parts:
 - [Parallel and Distributed Computing in Python with Dask](https://www.youtube.com/watch?v=EybGGLbLipI) - SciPy 2020 Conference.
 - [Scalable Data Analysis in Python with Dask](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OlkfAdqJWyGGrQM7eU-mi7) - Playlist that contains videos on data analysis with Dask.
 
-### Xarray
+### Xarray <a name="xarray"></a>
 
 xarray is an open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun!
 
@@ -89,7 +111,7 @@ xarray is an open source project and Python package that makes working with labe
 - [Weather Data Analysis with Python](https://spire.com/tutorial/spire-weather-tutorial-intro-to-processing-grib2-data-with-python/) - Spire Weather’s global forecast data in GRIB2 format using Python
 - [Xarray Introduction and Tutorial](https://boisestate.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a38a2efc-1ac6-4c02-af0f-acfc015e9444) - Research Computing Days 2021 Xarray Video Tutorial
 
-### GeoPandas
+### GeoPandas <a name="geopandas"></a>
 
 GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types
 
@@ -104,7 +126,7 @@ GeoPandas is an open source project to make working with geospatial data in pyth
 - [Exploring GeoPandas](https://nbviewer.jupyter.org/github/RagingTiger/explore-geopandas/blob/master/naturalearth_lowres_data.ipynb) - JupyterLab notebook for exploring GeoPandas using the builtin Natural Earth Low Res dataset.
 - [GIS Analysis with GeoPandas](https://github.com/Paritoshyadav/GIS-Analysis-with-GeoPandas-using-Python) -  Basic GIS Analysis with Geo pandas 
 
-### Raster
+### RasterIO <a name="raster"></a>
 
 Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models. Rasterio reads and writes these formats and provides a Python API based on Numpy N-dimensional arrays and GeoJSON.
 
@@ -121,7 +143,7 @@ Geographic information systems use GeoTIFF and other formats to organize and sto
 - [Create GeoSpatial Raster from XY Data](https://hatarilabs.com/ih-en/how-to-create-a-geospatial-raster-from-xy-data-with-python-pandas-and-rasterio-tutorial) - Tutorial shows the procedure to run a Scipy interpolation over a Pandas dataframe of point related data having a 2D Numpy array as an output.
 - [Advanced Features in RaSterIO](https://gist.github.com/sgillies/7e5cd548110a5b4d45ac1a1d93cb17a3) - Notebook that demonstrates advanced RasterIO concepts useful for developing cloud-native applications.
 
-### Plotly
+### Plotly <a name="plotly"></a>
 
 Plotly's Python graphing library makes interactive, publication-quality graphs.
 
@@ -137,7 +159,7 @@ Plotly's Python graphing library makes interactive, publication-quality graphs.
 - [IPython Notebooks for Plotly](https://plotly.com/python/v3/ipython-notebooks/) - Gallery of IPython Notebooks in Python/v3.
 - [Graphs and Plots Using Plotly](https://sites.pitt.edu/~naraehan/presentation/Graphs_and_Plots_using_Plotly.html) - Plotly Tutorial on graphs and plotting.
 
-### NumPy
+### NumPy <a name="numpy"></a>
 
 NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
 
@@ -157,7 +179,7 @@ NumPy is the fundamental package for scientific computing in Python. It is a Pyt
 - [Python NumPy Beginner Video Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI) - Basics of the NumPy library provided by freeCodeCamp.
 - [NumPy Video Tutorial by Derek Banas](https://www.youtube.com/watch?v=8Y0qQEh7dJg) - Updated Video tutorial for NumPy.
 
-### Matplotlib 
+### Matplotlib <a name="matplotlib"></a>
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
@@ -174,7 +196,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - [Maptplotlib Video Tutorial Series](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) / [Code Respository](https://github.com/manjusv/Matplotlib_tutorial) - Video Tutorial series by Corey Schafer.
 - [Matplotlib Video Tutorial](https://www.youtube.com/watch?v=wB9C0Mz9gSo) - Video tutorial by Derek Banas.
 
-### PySAL 
+### PySAL <a name="pysal"></a>
 
 The python spatial analysis library for Geospatial Data Science
 
@@ -183,9 +205,9 @@ The python spatial analysis library for Geospatial Data Science
 - [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
 - [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
 
-## Miscellaneous Libraries
+## Miscellaneous Libraries <a name="misc"></a>
 
-### Fiona
+### Fiona <a name="fiona"></a>
 
 Fiona reads and writes geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems. Fiona contains extension modules that link the Geospatial Data Abstraction Library (GDAL).
 
@@ -193,7 +215,7 @@ Fiona reads and writes geographic data files and thereby helps Python programmer
 - [Fiona Documentation](https://fiona.readthedocs.io/en/latest/) - Fiona Documentation
 - [Examples](https://github.com/Toblerity/Fiona/tree/master/examples) - Fiona Examples
 
-### Xarray-spatial
+### Xarray-spatial <a name="xarrayspatial"></a>
 
 Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 
@@ -201,7 +223,7 @@ Xarray-Spatial implements common raster analysis functions using Numba and provi
 - [Xarray-spatial Documentation](https://xarray-spatial.org/index.html) - Official Documentation for Xarray-spatial.
 - [Examples](https://github.com/makepath/xarray-spatial/tree/master/examples) - Official examples for using Xarray-spatial.
 
-### Rio-xarray
+### Rio-xarray <a name="rio"></a>
 
 Geospatial xarray extension powered by rasterio
 
@@ -209,7 +231,7 @@ Geospatial xarray extension powered by rasterio
 - [Rio-xarray](https://github.com/corteva/rioxarray) - Official GitHub repository.
 - [Examples](https://corteva.github.io/rioxarray/stable/examples/examples.html) - Official exmaples for Rio-xarray.
 
-### Regionmask
+### Regionmask <a name="regionmask"></a>
 
 regionmask is a Python module that:
 
@@ -227,7 +249,7 @@ arbitrary regions can be defined easily.
 - [RegionMask Documentation](https://regionmask.readthedocs.io/en/stable/) - Official documentation for Regionmask.
 - [RegionMask Tutorial Notebooks](https://github.com/regionmask/regionmask/tree/master/docs/notebooks) - Official tutorials with Jupyter Notebooks.
 
-### Geocube
+### Geocube <a name="geocube"></a>
 
 Tool to convert geopandas vector data into rasterized xarray data.
 
@@ -235,7 +257,7 @@ Tool to convert geopandas vector data into rasterized xarray data.
 - [Geocube documentation](https://corteva.github.io/geocube/stable/) - Official Geocube documentation.
 - [Examples](https://corteva.github.io/geocube/stable/examples/examples.html) - Official examples for using Geocube.
 
-### Salem
+### Salem <a name="salem"></a>
 
 Salem is a small library to do geoscientific data processing and plotting. It extends xarray to add geolocalised subsetting, masking, and plotting operations to xarray’s DataArray and DataSet structures.
 
