@@ -176,6 +176,14 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 ## Miscellaneous Libraries
 
+### Fiona
+
+Fiona reads and writes geographic data files and thereby helps Python programmers integrate geographic information systems with other computer systems. Fiona contains extension modules that link the Geospatial Data Abstraction Library (GDAL).
+
+- [Fiona](https://github.com/Toblerity/Fiona) - Official GitHub repository.
+- [Fiona Documentation](https://fiona.readthedocs.io/en/latest/) - Fiona Documentation
+- [Examples](https://github.com/Toblerity/Fiona/tree/master/examples) - Fiona Examples
+
 ### Xarray-spatial
 
 Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
