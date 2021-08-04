@@ -174,6 +174,15 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - [Maptplotlib Video Tutorial Series](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) / [Code Respository](https://github.com/manjusv/Matplotlib_tutorial) - Video Tutorial series by Corey Schafer.
 - [Matplotlib Video Tutorial](https://www.youtube.com/watch?v=wB9C0Mz9gSo) - Video tutorial by Derek Banas.
 
+### PySAL 
+
+The python spatial analysis library for Geospatial Data Science
+
+- [PySAL Documentation](https://pysal.org/docs/users/) - Official documentation, contains a list of courses, workshops, tutorials, and presentations. 
+- [PySAL Notebooks Project](https://pysal.org/notebooks/intro) - This is a compilation of official notebooks demonstrating the functionality of PySAL, the Python Spatial Analysis library.
+- [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
+- [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
+
 ## Miscellaneous Libraries
 
 ### Fiona
