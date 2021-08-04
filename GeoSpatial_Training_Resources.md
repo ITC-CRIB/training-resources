@@ -46,6 +46,7 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [NDVI Stats](https://github.com/bjornjorgensen/ndvistats) - Jupyter Notebook with flow calculation of zonal statistics for selected polygons using geopandas, google earth engine api, rasterio, rasterstats and folium.
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - A set of lectures on scientific computing with Python, using IPython notebooks.
 - [Practical Data Science](https://www.practicaldatascience.org/html/index.html#) - Course site for Duke Practical Data Science.
+- [LearnEO](https://www.learn-eo.org/index.php) - Learn Earth Observation with ESA.
 
 ### Dask 
 
