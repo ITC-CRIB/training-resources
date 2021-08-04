@@ -47,6 +47,8 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - A set of lectures on scientific computing with Python, using IPython notebooks.
 - [Practical Data Science](https://www.practicaldatascience.org/html/index.html#) - Course site for Duke Practical Data Science.
 - [LearnEO](https://www.learn-eo.org/index.php) - Learn Earth Observation with ESA.
+- [EOPortal Directory](https://earth.esa.int/web/eoportal/home) - Earth Observation resources by ESA.
+- [Cate](https://climate.esa.int/en/explore/analyse-climate-data/) - The CCI Climate Analysis Toolbox (Cate) is a cloud-enabled computing environment for analysing, processing and visualising all ESA Climate Change Initiative datasets. Cate works by mashing ECV data and other data sources into a common data model. Users operate on this model, then analyse, process, and visualise the results.
 
 ### Dask 
 
