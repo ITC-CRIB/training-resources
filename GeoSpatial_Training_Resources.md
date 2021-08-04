@@ -235,15 +235,7 @@ Geospatial xarray extension powered by rasterio
 
 regionmask is a Python module that:
 
-contains a number of defined regions, including: countries (from Natural Earth), a landmask and regions used in the scientific literature (the Giorgi regions 1 and the SREX regions 2).
-
-can plot figures of these regions with matplotlib and cartopy
-
-can be used to create masks of the regions for arbitrary longitude and latitude grids (2D integer masks and 3D boolean masks).
-
-Support for shapefiles is provided via geopandas.
-
-arbitrary regions can be defined easily.
+Contains a number of defined regions, including: countries (from Natural Earth), a landmask and regions used in the scientific literature (the Giorgi regions 1 and the SREX regions 2). Can plot figures of these regions with matplotlib and cartopy. Can be used to create masks of the regions for arbitrary longitude and latitude grids (2D integer masks and 3D boolean masks). Support for shapefiles is provided via geopandas. Arbitrary regions can be defined easily.
 
 - [RegionMask](https://github.com/regionmask/regionmask) - Official Github Repository.
 - [RegionMask Documentation](https://regionmask.readthedocs.io/en/stable/) - Official documentation for Regionmask.
