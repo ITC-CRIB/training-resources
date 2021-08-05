@@ -210,6 +210,7 @@ The python spatial analysis library for Geospatial Data Science
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
+- [Pandas](https://github.com/pandas-dev/pandas) - Official GitHub repository of Pandas.
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide) - Official Pandas Documentation. Has interactive Notebooks at the end.
 - [Intro Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html) - Official intro to Pandas
 - [Community Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) - Pandas Community tutorials geared for new users. Has excellent resources (Notebooks and video).
