@@ -21,7 +21,7 @@ This is a curated list of training materials for popular packages that are used 
     - [Geocube](#geocube)
     - [Salem](#salem)
 
-Resources for these packages will be added soon - pandas, scikit-learn, matplotlib, seaborn, cartopy
+Resources for these packages will be added soon - pandas, scikit-learn, seaborn, cartopy
 
 <hr><hr>
 
@@ -74,6 +74,7 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [Cate](https://climate.esa.int/en/explore/analyse-climate-data/) - The CCI Climate Analysis Toolbox (Cate) is a cloud-enabled computing environment for analysing, processing and visualising all ESA Climate Change Initiative datasets. Cate works by mashing ECV data and other data sources into a common data model. Users operate on this model, then analyse, process, and visualise the results.
 - [Intro to GeoSpatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
 - [Spatial Data Analysis with PySAL](https://www.youtube.com/watch?v=i9TRi7r3NxM) - SciPy 2020 Video Tutorial.
+- [Data Science Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Consists of python, jupyter notebook, pandas hacks and so on.
 
 ### Dask <a name="dask"></a>
 
@@ -204,6 +205,35 @@ The python spatial analysis library for Geospatial Data Science
 - [PySAL Notebooks Project](https://pysal.org/notebooks/intro) - This is a compilation of official notebooks demonstrating the functionality of PySAL, the Python Spatial Analysis library.
 - [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
 - [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
+
+### Pandas
+
+pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide) - Official Pandas Documentation. Has interactive Notebooks at the end.
+- [Intro Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html) - Official intro to Pandas
+- [Community Tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html) - Pandas Community tutorials geared for new users. Has excellent resources (Notebooks and video).
+- [Pandas Tutorial](https://www.dataquest.io/blog/pandas-python-tutorial/) - Analyzing Video Game Data with Python and Pandas.
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - Repository just with exercises to practice pandas. 
+- [Series of Pandas Tutorial](https://github.com/TirendazAcademy/PANDAS-TUTORIAL) - Jupyter Notebooks and Data Sets for Pandas Library.
+- [Scikit-Learn and Pandas](https://github.com/luciasantamaria/pandas-tutorial) - Teaching materials for pandas and scikit-learn.
+- [Pandas Scipy Conference Tutorials](https://github.com/jorisvandenbossche/pandas-tutorial) - Material for the pandas tutorial at EuroScipy 2016.
+- [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky.
+- [PyCon 2019 Presentation on Pandas](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas.
+- [Python Pandas Tutorial](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - A Complete Introduction for Beginners.
+- [PyData Book Materials](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media.
+- [Dataframes in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python) - Datacamp tutorial on exploring data analysis with Python.
+- [Pandas Video Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Video Tutorial series by Corey Schafer.
+- [Pandas Extensive Video series](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series from Data School.
+
+### Scikit-Learn
+
+- [Scikit-Learn and Pandas](https://github.com/luciasantamaria/pandas-tutorial) - Teaching materials for pandas and scikit-learn.
+
+### Seaborn
+
+
+### Cartopy
 
 ## Miscellaneous Libraries <a name="misc"></a>
 
