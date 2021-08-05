@@ -10,11 +10,11 @@
     - [Plotly](#plotly)
     - [NumPy](#numpy)
     - [Matplotlib](#matplotlib)
-    - [PySAL](#pysal)
     - [Pandas](#pandas)
     - [Scikit-Learn](#scikit-learn)
     - [Seaborn](#seaborn)
     - [Cartopy](#cartopy)
+    - [PySAL](#pysal)
   - [Miscellaneous Libraries](#miscellaneous-libraries)
     - [Fiona](#fiona)
     - [Xarray-spatial](#xarray-spatial)
@@ -80,6 +80,8 @@ These are links to resources that have tutorials/courses for Geo Spatial computi
 - [Intro to GeoSpatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
 - [Spatial Data Analysis with PySAL](https://www.youtube.com/watch?v=i9TRi7r3NxM) - SciPy 2020 Video Tutorial.
 - [Data Science Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Consists of python, jupyter notebook, pandas hacks and so on.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) -  Contains the full text of the Python Data Science Handbook by Jake VanderPlas
+- [Python Data Science Handbook Code Materials](https://github.com/jakevdp/PythonDataScienceHandbook) - This repository contains the entire Python Data Science Handbook, in the form of Jupyter notebooks.
 
 ### Dask
 
@@ -202,15 +204,6 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 - [Maptplotlib Video Tutorial Series](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) / [Code Respository](https://github.com/manjusv/Matplotlib_tutorial) - Video Tutorial series by Corey Schafer.
 - [Matplotlib Video Tutorial](https://www.youtube.com/watch?v=wB9C0Mz9gSo) - Video tutorial by Derek Banas.
 
-### PySAL
-
-The python spatial analysis library for Geospatial Data Science
-
-- [PySAL Documentation](https://pysal.org/docs/users/) - Official documentation, contains a list of courses, workshops, tutorials, and presentations. 
-- [PySAL Notebooks Project](https://pysal.org/notebooks/intro) - This is a compilation of official notebooks demonstrating the functionality of PySAL, the Python Spatial Analysis library.
-- [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
-- [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
-
 ### Pandas
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
@@ -244,8 +237,40 @@ pandas is an open source, BSD-licensed library providing high-performance, easy-
 
 ### Seaborn
 
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+
+- [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python. Official Github Repo.
+- [Seaborn User Guide Tutorials](https://seaborn.pydata.org/tutorial.html) - Official user guide and tutorials.
+- [Ultimate Python Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial) - Step-by-step Seaborn tutorial
+- [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html) - Excerpt from the Python Data Science Handbook by Jake VanderPlas
+- [Seaborn Tutorial](https://github.com/clair513/Seaborn-Tutorial) - Includes all the types of plot offered by Seaborn, applied on random datasets.
+- [Series of Seaborn Notebooks](https://github.com/corazzon/seaborn-tutorial) - Training notebooks in Seaborn.
+- [Matplotlib and Seaborn Tutorial](https://github.com/roguexray007/Matplotlib-and-Seaborn-Tutorial) - Tutorials for easy understanding of matplotlib and seaborn commands for graph plotting.
+- [Plotting with Seaborn and Matplotlib](https://github.com/mohdsanadzakirizvi/Matplotlib-Seaborn-Tutorial) - Basic to advanced visualization techniques and some basic Exploratory Data Analysis on a dataset.
+- [Practical Data Visualization](https://github.com/pmaji/practical-python-data-viz-guide) - Resources for teaching & learning practical data visualization with python.
+- [Data Visualization](https://github.com/DataForScience/DataViz) - Data Visualization With Matplotlib and Seaborn.
+- [Cheat Sheet](https://github.com/derekbanas/seaborn) - Seaborn Cheat Sheet provided by Derek Banas.
+- [Seaborn Video Tutorial](https://www.youtube.com/watch?v=6GUZXDef2U0) - Video Tutorial provided by Derek Banas
 
 ### Cartopy
+
+Cartopy is a python package which provides a set of tools for creating projection-aware geospatial plots using python’s standard plotting package, matplotlib. Cartopy also has a robust set of tools for defining projections and reprojecting data.
+
+- [Cartopy Documentation](https://scitools.org.uk/cartopy/docs/latest/) - Official cartopy documentation.
+- [Cartopy SciPy 2018](https://github.com/SciTools/cartopy-tutorial) - Cartopy tutorial: Around the world in 80 ways.
+- [Basic Cartopy Tutorial](https://github.com/nawendt/cartopy-tutorial) - Basic tutorial for cartopy map plotting Python package.
+-  [Maps with Cartopy](https://rabernat.github.io/research_computing_2018/maps-with-cartopy.html) - Tutorial on building maps with Cartopy.
+- [Simple Maps with Cartopy](https://geohackweek.github.io/visualization/03-cartopy/) - Basic and quick intro to Cartopy.
+
+### PySAL
+
+The python spatial analysis library for Geospatial Data Science
+
+- [PySAL Documentation](https://pysal.org/docs/users/) - Official documentation, contains a list of courses, workshops, tutorials, and presentations. 
+- [PySAL Notebooks Project](https://pysal.org/notebooks/intro) - This is a compilation of official notebooks demonstrating the functionality of PySAL, the Python Spatial Analysis library.
+- [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
+- [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
+
 
 ## Miscellaneous Libraries
 
