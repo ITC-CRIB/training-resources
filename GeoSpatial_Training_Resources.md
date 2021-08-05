@@ -4,24 +4,28 @@ This is a curated list of training materials for popular packages that are used 
 
 ## Contents
 
-- [Common Resources for Geo Spatial Computing](#general)
-- [Dask](#dask)
-- [Xarray](#xarray)
-- [GeoPandas](#geopandas)
-- [RasterIO](#raster)
-- [Plotly](#plotly)
-- [NumPy](#numpy)
-- [Matplotlib](#matplotlib)
-- [PySAL](#pysal)
-- [Pandas](#pandas)
-- [Scikit-Learn](#scikit)
-- [Miscellaneous Packages](#misc)
-    - [Fiona](#fiona)
-    - [Xarray Spatial](#xarrayspatial)
-    - [Rio-Xarray](#rioxarray)
-    - [RegionMask](#regionmask)
-    - [Geocube](#geocube)
-    - [Salem](#salem)
+- [Training Resources for Geo Spatial Computing](#training-resources-for-geo-spatial-computing)
+  - [Contents](#contents)
+    - [Common Resources for Geo Spatial Observation and Geo Informatics Systems <a name="general"></a>](#common-resources-for-geo-spatial-observation-and-geo-informatics-systems-)
+    - [Dask <a name="dask"></a>](#dask-)
+    - [Xarray <a name="xarray"></a>](#xarray-)
+    - [GeoPandas <a name="geopandas"></a>](#geopandas-)
+    - [RasterIO <a name="raster"></a>](#rasterio-)
+    - [Plotly <a name="plotly"></a>](#plotly-)
+    - [NumPy <a name="numpy"></a>](#numpy-)
+    - [Matplotlib <a name="matplotlib"></a>](#matplotlib-)
+    - [PySAL <a name="pysal"></a>](#pysal-)
+    - [Pandas <a name="pandas"></a>](#pandas-)
+    - [Scikit-Learn <a name="scikit"></a>](#scikit-learn-)
+    - [Seaborn <a name="seaborn"></a>](#seaborn-)
+    - [Cartopy <a name="cartopy"></a>](#cartopy-)
+  - [Miscellaneous Libraries <a name="misc"></a>](#miscellaneous-libraries-)
+    - [Fiona <a name="fiona"></a>](#fiona-)
+    - [Xarray-spatial <a name="xarrayspatial"></a>](#xarray-spatial-)
+    - [Rio-xarray <a name="rio"></a>](#rio-xarray-)
+    - [Regionmask <a name="regionmask"></a>](#regionmask-)
+    - [Geocube <a name="geocube"></a>](#geocube-)
+    - [Salem <a name="salem"></a>](#salem-)
 
 Resources for these packages will be added soon - pandas, scikit-learn, seaborn, cartopy
 
@@ -231,12 +235,18 @@ pandas is an open source, BSD-licensed library providing high-performance, easy-
 
 ### Scikit-Learn <a name="scikit"></a>
 
+- [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) - Official scikit-kearn tutorials.
+- [Machine Learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) - An introduction to machine learning with scikit-learn.
+- [Scikit-Learn Tutorial (ML)](https://www.datacamp.com/community/tutorials/machine-learning-python) - An easy-to-follow scikit-learn tutorial that will help you get started with Python machine learning provided by Datacamp.
+- [Sckit-Learn Extensive tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for Scikit-Learn tutorial.
+- [Scikit-Learn Videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series by Data School.
 - [Scikit-Learn and Pandas](https://github.com/luciasantamaria/pandas-tutorial) - Teaching materials for pandas and scikit-learn.
+- [Scikit-Learn Video Course](https://www.youtube.com/watch?v=pqNCD_5r0IU) - Scikit-Learn video course provided by freeCodeCamp.
 
-### Seaborn
+### Seaborn <a name="seaborn"></a>
 
 
-### Cartopy
+### Cartopy <a name="cartopy"></a>
 
 ## Miscellaneous Libraries <a name="misc"></a>
 
