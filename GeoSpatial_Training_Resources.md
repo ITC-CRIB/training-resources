@@ -12,7 +12,9 @@ This is a curated list of training materials for popular packages that are used 
 - [Plotly](#plotly)
 - [NumPy](#numpy)
 - [Matplotlib](#matplotlib)
-- [PySAL](#PySAL)
+- [PySAL](#pysal)
+- [Pandas](#pandas)
+- [Scikit-Learn](#scikit)
 - [Miscellaneous Packages](#misc)
     - [Fiona](#fiona)
     - [Xarray Spatial](#xarrayspatial)
@@ -206,7 +208,7 @@ The python spatial analysis library for Geospatial Data Science
 - [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
 - [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
 
-### Pandas
+### Pandas <a name="pandas"></a>
 
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
@@ -227,7 +229,7 @@ pandas is an open source, BSD-licensed library providing high-performance, easy-
 - [Pandas Video Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Video Tutorial series by Corey Schafer.
 - [Pandas Extensive Video series](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series from Data School.
 
-### Scikit-Learn
+### Scikit-Learn <a name="scikit"></a>
 
 - [Scikit-Learn and Pandas](https://github.com/luciasantamaria/pandas-tutorial) - Teaching materials for pandas and scikit-learn.
 
