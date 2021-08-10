@@ -1,8 +1,8 @@
 # Outline 
 
 - [Outline](#outline)
-- [Training Resources for Geo Spatial Computing](#training-resources-for-geo-spatial-computing)
-    - [Common Resources for Geo Spatial Observation and Geo Informatics Systems](#common-resources-for-geo-spatial-observation-and-geo-informatics-systems)
+- [Training Resources for Geospatial Computing](#training-resources-for-geospatial-computing)
+    - [Common Resources for Geospatial Observation and Geo Informatics Systems](#common-resources-for-geospatial-observation-and-geo-informatics-systems)
     - [Dask](#dask)
     - [Xarray](#xarray)
     - [GeoPandas](#geopandas)
@@ -24,15 +24,15 @@
     - [Salem](#salem)
 
 
-# Training Resources for Geo Spatial Computing
+# Training Resources for Geospatial Computing
 
-This is a curated list of training materials for popular packages that are used in Geo Spatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (for example - R). If you need resources for any particular package, please contact us so we can update the list accordingly. 
+This is a curated list of training materials for popular packages that are used in Geospatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (for example - R). If you need resources for any particular package, please contact us so we can update the list accordingly. 
 
 <hr><hr>
 
-### Common Resources for Geo Spatial Observation and Geo Informatics Systems
+### Common Resources for Geospatial Observation and Geo Informatics Systems
 
-These are links to resources that have tutorials/courses for Geo Spatial computing and analyses. 
+These are links to resources that have tutorials/courses for Geospatial computing and analyses. 
 
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial analysis tools
 - [GeoHackWeek 2017 Materials](https://github.com/geohackweek/tutorial_contents) - Materials from GeohackWeek which happened in University of Washington in 2017.
@@ -126,7 +126,7 @@ GeoPandas is an open source project to make working with geospatial data in pyth
 - [GeoPandas Documentation](https://geopandas.org/docs.html) - Official Documentatiom
 - [GeoPandas Examples](https://geopandas.org/gallery/index.html) / [Code Repository](https://github.com/geopandas/geopandas/tree/master/doc/source/gallery) - Official GeoPandas collection of examples.
 - [GeoPandas Repository](https://github.com/geopandas/geopandas) - Official GitHub repo of GeoPandas
-- [GeoSpatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python) - DLab workshop materials on Geo Spatial analysis using GeoPandas
+- [GeoSpatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python) - DLab workshop materials on Geospatial analysis using GeoPandas
 - [Intro To GeoPandas](https://automating-gis-processes.github.io/CSC18/lessons/L2/geopandas-basics.html) - Course materials of CSC Finland Intro to Python GIS
 - [GeoPandas Tutorial (focus on tabular vector data)](https://github.com/jorisvandenbossche/geopandas-tutorial) -  Introduction to geospatial data analysis in Python, with a focus on tabular vector data using GeoPandas.
 - [Intro to GeoPandas (Intro to GIS course)](https://autogis-site.readthedocs.io/en/latest/notebooks/L2/01-geopandas-basics.html) - Course materials of Intro to GIS course, University of Helsinki
