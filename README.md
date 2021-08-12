@@ -1,4 +1,10 @@
-# Outline 
+# Training Resources for Geospatial Computing
+
+This is a curated list of training materials for popular packages that are used in geospatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (e.g. R). If you need resources for any particular package, please [contact us](https://crib.utwente.nl/support/open.php) so we can update the list accordingly. 
+
+Please feel free to contribute the adding resources you find useful for research, education, and training purposes.
+
+## Outline 
 
 - [Outline](#outline)
 - [Training Resources for Geospatial Computing](#training-resources-for-geospatial-computing)
@@ -22,13 +28,6 @@
     - [Regionmask](#regionmask)
     - [Geocube](#geocube)
     - [Salem](#salem)
-
-
-# Training Resources for Geospatial Computing
-
-This is a curated list of training materials for popular packages that are used in Geospatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (for example - R). If you need resources for any particular package, please contact us so we can update the list accordingly. 
-
-<hr><hr>
 
 ### Common Resources for Geospatial Observation and Geo Informatics Systems
 
