@@ -1,42 +1,40 @@
 # Training Resources for Geospatial Computing
 
-This is a curated list of training materials for popular packages that are used in geospatial computing. The current list primarily has Python packages but the list will be updated to include packages from other languages (e.g. R). If you need resources for any particular package, please [contact us](https://crib.utwente.nl/support/open.php) so we can update the list accordingly. 
+This is a curated list of training resources for popular packages that are used in geospatial computing. The current list primarily includes Python packages, but it will be updated to include packages from other languages, e.g. R. If you need resources for any particular package, please [contact us](https://crib.utwente.nl/support/open.php) so we can update the list accordingly. 
 
-Please feel free to contribute the adding resources you find useful for research, education, and training purposes.
+Please feel free to contribute the adding resources you find useful for geospatial research, education, and training purposes.
 
 ## Outline 
 
-- [Outline](#outline)
-- [Training Resources for Geospatial Computing](#training-resources-for-geospatial-computing)
-    - [Common Resources for Geospatial Observation and Geo Informatics Systems](#common-resources-for-geospatial-observation-and-geo-informatics-systems)
-    - [Dask](#dask)
-    - [Xarray](#xarray)
-    - [GeoPandas](#geopandas)
-    - [RasterIO](#rasterio)
-    - [Plotly](#plotly)
-    - [NumPy](#numpy)
-    - [Matplotlib](#matplotlib)
-    - [Pandas](#pandas)
-    - [Scikit-Learn](#scikit-learn)
-    - [Seaborn](#seaborn)
-    - [Cartopy](#cartopy)
-    - [PySAL](#pysal)
-  - [Miscellaneous Libraries](#miscellaneous-libraries)
-    - [Fiona](#fiona)
-    - [Xarray-spatial](#xarray-spatial)
-    - [Rio-xarray](#rio-xarray)
-    - [Regionmask](#regionmask)
-    - [Geocube](#geocube)
-    - [Salem](#salem)
+- [Common Resources for Geospatial Computing and Earth Observation](#common-resources-for-geospatial-computing-and-earth-observation)
+- [Dask](#dask)
+- [Xarray](#xarray)
+- [GeoPandas](#geopandas)
+- [RasterIO](#rasterio)
+- [Plotly](#plotly)
+- [NumPy](#numpy)
+- [Matplotlib](#matplotlib)
+- [Pandas](#pandas)
+- [Scikit-Learn](#scikit-learn)
+- [Seaborn](#seaborn)
+- [Cartopy](#cartopy)
+- [PySAL](#pysal)
+- [Miscellaneous Libraries](#miscellaneous-libraries)
+	- [Fiona](#fiona)
+	- [Xarray-spatial](#xarray-spatial)
+	- [Rio-xarray](#rio-xarray)
+	- [Regionmask](#regionmask)
+	- [Geocube](#geocube)
+	- [Salem](#salem)
 
-### Common Resources for Geospatial Observation and Geo Informatics Systems
+### Common Resources for Geospatial Computing and Earth Observation
 
-These are links to resources that have tutorials/courses for Geospatial computing and analyses. 
+These are links to resources that have useful information and tutorials on geospatial computing and Earth observation. 
 
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial analysis tools
 - [GeoHackWeek 2017 Materials](https://github.com/geohackweek/tutorial_contents) - Materials from GeohackWeek which happened in University of Washington in 2017.
-- [Python GeoSpatial Analysis Cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook) - Over 60 python recipes to perform spatial operations and build an indoor routing Django web application 
-- [Intro to GeoSpatial Data using Python](https://developer.ibm.com/learningpaths/data-analysis-using-python/introduction-to-geospatial-data-using-python/) - Introduction to geospatial data and its types, vector and raster, and work with geospatial data using Python.
+- [Python Geospatial Analysis Cookbook](https://github.com/mdiener21/python-geospatial-analysis-cookbook) - Over 60 python recipes to perform spatial operations and build an indoor routing Django web application 
+- [Intro to Geospatial Data using Python](https://developer.ibm.com/learningpaths/data-analysis-using-python/introduction-to-geospatial-data-using-python/) - Introduction to geospatial data and its types, vector and raster, and work with geospatial data using Python.
 - [Automating GIS Processes](https://automating-gis-processes.github.io/site/index.html) - A course on how to do different GIS-related tasks in Python programming language. Has lessons with tutorials on specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools.
 - [Geo Python](https://geo-python-site.readthedocs.io/en/latest/) - The Geo-Python course contains basic concepts of programming and scientific data analysis using the Python. Targeted at beginners with no previous programming experience needed.
 - [Parallel Python - Analyzing large Datasets](https://github.com/pydata/parallel-tutorial) - Parallel computing in Python tutorial materials.
@@ -58,25 +56,25 @@ These are links to resources that have tutorials/courses for Geospatial computin
 - [Open Geospatial Data Download Catalog](https://github.com/iamtekson/geospatial-data-download-sites) - Major sources of open geospatial data download sites.
 - [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) / [Code Repository](https://github.com/TomasBeuzen/python-for-geospatial-analysis) - Crashcourse introduction to using Python to wrangle, plot, and model geospatial data.
 - [Geospatial Analyses in Python](https://github.com/makerportal/geospatial-analyses) - Python-based geospatial analysis codes related to: GOES-16 satellite data, national land cover database (NLCD), elevation maps, building footprints, city mapping across the Continental USA.
-- [GeoSpatial Mapping in Python](https://github.com/SirRacha/Geospatial_Mapping_In_Python) - An exploration into working with geospatial data, transforming data types, and visualizing geospatial data in a multitude of ways.
+- [Geospatial Mapping in Python](https://github.com/SirRacha/Geospatial_Mapping_In_Python) - An exploration into working with geospatial data, transforming data types, and visualizing geospatial data in a multitude of ways.
 - [Google Earth Engine Python Notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping.
 - [Google Earth Engine Examples](https://github.com/giswqs/qgis-earthengine-examples) - A collection of 290+ Python examples for using Google Earth Engine in QGIS.
 - [Awesome Earth Engine](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
 - [Python From Space](https://github.com/kscottz/PythonFromSpace) - Analyzing Open Satellite Imagery Using the Python Ecosystem. Contains slides and Jupyter notebooks for the "Python from Space" talk at Pycon 2017 in Portland, Oregon.
-- [GeoSpatial Machine Learning](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
-- [Python GeoSpatial](https://github.com/giswqs/python-geospatial) - A collection of Python packages for geospatial analysis with binder-ready notebook examples.
+- [Geospatial Machine Learning](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
+- [Python Geospatial](https://github.com/giswqs/python-geospatial) - A collection of Python packages for geospatial analysis with binder-ready notebook examples.
 - [Google Earth Engine with Python](https://github.com/csaybar/EEwPython) -  Series of Jupyter notebook (colabs) to learn Google Earth Engine with python.
 - [Kepler.gl](https://github.com/keplergl/kepler.gl) - Data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of Mapbox GL and deck.gl.
 - [R GeoNotebooks](https://github.com/mhermans/rgeonotebooks) - RMarkdown notebooks documenting maps & GIS howto's in R.
-- [ETL Python Tools for GeoSpatial Data](https://github.com/jmcarrillog/geospatial-etl) - Multiple tools to perform Extract-Transform-Load (ETL) operations on Geospatial data.
-- [Plotting GeoSPatial Data](https://github.com/Develop-Packt/Plotting-Geospatial-Data) - Utilize Geoplotlib to create geographical visualizations, identify the different types of geospatial charts, and create complex visualizations using tile providers and custom layers.
+- [ETL Python Tools for Geospatial Data](https://github.com/jmcarrillog/geospatial-etl) - Multiple tools to perform Extract-Transform-Load (ETL) operations on Geospatial data.
+- [Plotting Geospatial Data](https://github.com/Develop-Packt/Plotting-Geospatial-Data) - Utilize Geoplotlib to create geographical visualizations, identify the different types of geospatial charts, and create complex visualizations using tile providers and custom layers.
 - [NDVI Stats](https://github.com/bjornjorgensen/ndvistats) - Jupyter Notebook with flow calculation of zonal statistics for selected polygons using geopandas, google earth engine api, rasterio, rasterstats and folium.
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - A set of lectures on scientific computing with Python, using IPython notebooks.
 - [Practical Data Science](https://www.practicaldatascience.org/html/index.html#) - Course site for Duke Practical Data Science.
 - [LearnEO](https://www.learn-eo.org/index.php) - Learn Earth Observation with ESA.
 - [EOPortal Directory](https://earth.esa.int/web/eoportal/home) - Earth Observation resources by ESA.
 - [Cate](https://climate.esa.int/en/explore/analyse-climate-data/) - The CCI Climate Analysis Toolbox (Cate) is a cloud-enabled computing environment for analysing, processing and visualising all ESA Climate Change Initiative datasets. Cate works by mashing ECV data and other data sources into a common data model. Users operate on this model, then analyse, process, and visualise the results.
-- [Intro to GeoSpatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
+- [Intro to Geospatial Data Analysis](https://www.youtube.com/watch?v=kJXUUO5M4ok) - SciPy 2018 Video Tutorial.
 - [Spatial Data Analysis with PySAL](https://www.youtube.com/watch?v=i9TRi7r3NxM) - SciPy 2020 Video Tutorial.
 - [Data Science Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Consists of python, jupyter notebook, pandas hacks and so on.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) -  Contains the full text of the Python Data Science Handbook by Jake VanderPlas
@@ -125,7 +123,7 @@ GeoPandas is an open source project to make working with geospatial data in pyth
 - [GeoPandas Documentation](https://geopandas.org/docs.html) - Official Documentatiom
 - [GeoPandas Examples](https://geopandas.org/gallery/index.html) / [Code Repository](https://github.com/geopandas/geopandas/tree/master/doc/source/gallery) - Official GeoPandas collection of examples.
 - [GeoPandas Repository](https://github.com/geopandas/geopandas) - Official GitHub repo of GeoPandas
-- [GeoSpatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python) - DLab workshop materials on Geospatial analysis using GeoPandas
+- [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python) - DLab workshop materials on Geospatial analysis using GeoPandas
 - [Intro To GeoPandas](https://automating-gis-processes.github.io/CSC18/lessons/L2/geopandas-basics.html) - Course materials of CSC Finland Intro to Python GIS
 - [GeoPandas Tutorial (focus on tabular vector data)](https://github.com/jorisvandenbossche/geopandas-tutorial) -  Introduction to geospatial data analysis in Python, with a focus on tabular vector data using GeoPandas.
 - [Intro to GeoPandas (Intro to GIS course)](https://autogis-site.readthedocs.io/en/latest/notebooks/L2/01-geopandas-basics.html) - Course materials of Intro to GIS course, University of Helsinki
@@ -147,7 +145,7 @@ Geographic information systems use GeoTIFF and other formats to organize and sto
 - [GDAL Raster Tutorials](https://github.com/neerubhai/GDAL-rasterio-tutorials) - Tutorials on how to use GDAL Python API and rasterio for raster data management, transformation, analysis and visualization tasks.
 - [Intermediate Earth Data Science (Earth Lab CU Boulder) Raster Tutorial](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-raster-data-python/fundamentals-raster-data/) -  Fundamental concepts related to working with raster data in Python, including understanding the spatial attributes of raster data, how to open raster data and access its metadata, and how to explore the distribution of values in a raster dataset.
 - [Open, Plot, and Explore Raster Data in Python](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-raster-data-python/fundamentals-raster-data/open-lidar-raster-python/) - Working with lidar derived raster data that represents both terrain / elevation data, and surface elevation.
-- [Create GeoSpatial Raster from XY Data](https://hatarilabs.com/ih-en/how-to-create-a-geospatial-raster-from-xy-data-with-python-pandas-and-rasterio-tutorial) - Tutorial shows the procedure to run a Scipy interpolation over a Pandas dataframe of point related data having a 2D Numpy array as an output.
+- [Create Geospatial Raster from XY Data](https://hatarilabs.com/ih-en/how-to-create-a-geospatial-raster-from-xy-data-with-python-pandas-and-rasterio-tutorial) - Tutorial shows the procedure to run a Scipy interpolation over a Pandas dataframe of point related data having a 2D Numpy array as an output.
 - [Advanced Features in RaSterIO](https://gist.github.com/sgillies/7e5cd548110a5b4d45ac1a1d93cb17a3) - Notebook that demonstrates advanced RasterIO concepts useful for developing cloud-native applications.
 
 ### Plotly
