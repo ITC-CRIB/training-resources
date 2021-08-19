@@ -276,9 +276,11 @@ The SpatioTemporal Asset Catalog (STAC) specification provides a common language
 
 - [STAC](https://github.com/radiantearth/stac-spec) - Official Github repository containing the core object type specifications, examples, validation schemas, and documentation about the context and plans for the evolution of the specification.
 - [STAC openAPI](https://stacspec.org/STAC-api.html) - The openAPI of STAC.
-- [Introduction to SpatioTemporal Asset Catalogs (STAC)](https://www.youtube.com/watch?v=qGRrDPTwpmk) - STAC introduction video tutorial.
+- [Introduction to SpatioTemporal Asset Catalogs](https://www.youtube.com/watch?v=qGRrDPTwpmk) - Video tutorial.
 - [STAC utilities](https://github.com/orgs/stac-utils/repositories) - Official Github repository for STAC utilities like integrations with various databases, clients and programming languages.
-
+- [PySTAC Documentation](https://pystac.readthedocs.io/en/latest/) - The official documentation of PySTAC, a python library for working with STAC.
+- [PySTAC Tutorial](https://www.youtube.com/watch?v=5Q_v_qRpST8) - Video tutorial for the PySTAC library.
+- [PySTAC Tutorial Jupyter Notebooks](https://github.com/stac-utils/pystac/tree/main/docs/tutorials) - Interactive notebooks with PySTAC examples.
 ## Miscellaneous Libraries
 
 ### Fiona
