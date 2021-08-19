@@ -79,6 +79,7 @@ These are links to resources that have useful information and tutorials on geosp
 - [Data Science Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Consists of python, jupyter notebook, pandas hacks and so on.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) -  Contains the full text of the Python Data Science Handbook by Jake VanderPlas
 - [Python Data Science Handbook Code Materials](https://github.com/jakevdp/PythonDataScienceHandbook) - This repository contains the entire Python Data Science Handbook, in the form of Jupyter notebooks.
+- [Python Essentials for GIS Learners](https://tu-delft-dcc.github.io/Intro-to-Python-for-GIS) - Materials, exercises and lessons for a 3-day course on Python Essentials for GIS Learners offered to the BK Faculty at TU Delft ([Github Repository](https://github.com/TU-Delft-DCC/Intro-to-Python-for-GIS)).
 
 ### Dask
 
