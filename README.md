@@ -19,6 +19,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [Seaborn](#seaborn)
 - [Cartopy](#cartopy)
 - [PySAL](#pysal)
+- [SpatioTemporal Asset Catalogs](#spatiotemporal-asset-catalogs)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -269,6 +270,14 @@ The python spatial analysis library for Geospatial Data Science
 - [Intermediate Methods for Geospatial Data Analysis](https://github.com/pysal/scipy2019-intermediate-gds) - SciPy 2019 tutorial. 
 - [Geographic Data Science with PySAL and the pydata stack](https://darribas.org/gds_scipy16/) - SciPy 16 tutorials.
 
+### SpatioTemporal Asset Catalogs
+
+The SpatioTemporal Asset Catalog (STAC) specification provides a common language to describe a range of geospatial information, so it can more easily be indexed and discovered. A 'spatiotemporal asset' is any file that represents information about the earth captured in a certain space and time.
+
+- [STAC](https://github.com/radiantearth/stac-spec) - Official Github repository containing the core object type specifications, examples, validation schemas, and documentation about the context and plans for the evolution of the specification.
+- [STAC openAPI](https://stacspec.org/STAC-api.html) - The openAPI of STAC.
+- [Introduction to SpatioTemporal Asset Catalogs (STAC)](https://www.youtube.com/watch?v=qGRrDPTwpmk) - STAC introduction video tutorial.
+- [STAC utilities](https://github.com/orgs/stac-utils/repositories) - Official Github repository for STAC utilities like integrations with various databases, clients and programming languages.
 
 ## Miscellaneous Libraries
 
