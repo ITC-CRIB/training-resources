@@ -281,6 +281,11 @@ The SpatioTemporal Asset Catalog (STAC) specification provides a common language
 - [PySTAC Documentation](https://pystac.readthedocs.io/en/latest/) - The official documentation of PySTAC, a python library for working with STAC.
 - [PySTAC Tutorial](https://www.youtube.com/watch?v=5Q_v_qRpST8) - Video tutorial for the PySTAC library.
 - [PySTAC Tutorial Jupyter Notebooks](https://github.com/stac-utils/pystac/tree/main/docs/tutorials) - Interactive notebooks with PySTAC examples.
+
+### geemap
+
+geemap is a Python package for interactive mapping with Google Earth Engine (GEE), which is a cloud computing platform with a multi-petabyte catalog of satellite imagery and geospatial datasets.
+
 ## Miscellaneous Libraries
 
 ### Fiona
