@@ -20,6 +20,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [Cartopy](#cartopy)
 - [PySAL](#pysal)
 - [SpatioTemporal Asset Catalogs](#spatiotemporal-asset-catalogs)
+- [geemap](#geemap)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -284,8 +285,12 @@ The SpatioTemporal Asset Catalog (STAC) specification provides a common language
 
 ### geemap
 
-geemap is a Python package for interactive mapping with Google Earth Engine (GEE), which is a cloud computing platform with a multi-petabyte catalog of satellite imagery and geospatial datasets.
+geemap is a Python package for interactive mapping with [Google Earth Engine (GEE)](https://earthengine.google.com/), which is a cloud computing platform with a multi-petabyte catalog of satellite imagery and geospatial datasets.
 
+- [geemap Documentation](https://geemap.org/) - geemap official documentation.
+- [geemap Jupyter Notebooks](https://github.com/giswqs/earthengine-py-notebooks) - Collection of examples as interactive notebooks for geemap.
+- [geemap Tutorial Series](https://youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3) - Official video tutorials created by geemap author.
+- [geemap list of tutorials](https://github.com/giswqs/geemap/tree/master/examples) - List of official geemap tutorials and examples with links to the resources used in the tutorial.
 ## Miscellaneous Libraries
 
 ### Fiona
