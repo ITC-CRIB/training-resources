@@ -295,6 +295,7 @@ geemap is a Python package for interactive mapping with [Google Earth Engine (GE
 - [geemap Tutorial Series](https://youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3) - Official video tutorials created by geemap author.
 - [geemap list of tutorials](https://github.com/giswqs/geemap/tree/master/examples) - List of official geemap tutorials and examples with links to the resources used in the tutorial.
 
+
 ### PyTorch
 
 PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
@@ -306,7 +307,7 @@ PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
 - [PyTorch Video Tutorials](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - PyTorch video tutorial series made by Harrison Kinsley.
 - [PyTorch Video Tutorials](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - PyTorch video tutorial series made by deeplizard.
 - [PyTorch Curated Resources List](https://github.com/ritchieng/the-incredible-pytorch) - An extensive list of PyTorch tutorials, videos, tools, etc.
-
+- [Interactive Deep Learning Book](https://d2l.ai/) - Elaborate book for deep learning with examples using PyTorch.
 
 ### TensorFlow
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
