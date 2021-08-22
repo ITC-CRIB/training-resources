@@ -23,6 +23,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [geemap](#geemap)
 - [PyTorch](#pytorch)
 - [TensorFlow](#tensorflow)
+- [JAX](#jax)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -316,6 +317,20 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) - A tutorial aimed at beginners, includes interactive code examples.
 - [TensorFlow Curated Resource List](https://github.com/jtoy/awesome-tensorflow) - An extensive list of TensorFlow tutorials, videos, tools, etc.
 - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow tutorials that include a detailed interactive notebook and accompanying video lecture.
+
+
+### JAX
+JAX is [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla), brought together for high-performance numerical computing and machine learning research.
+
+- [JAX](https://github.com/google/jax) - Official Github repository.
+- [JAX Documentation](https://jax.readthedocs.io/en/latest/) - Official documentation.
+- [JAX tutorials](https://jax.readthedocs.io/en/latest/jax-101/index.html) - Official JAX tutorials.
+- [Getting Started With JAX](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - A blog post introducing JAX concepts.
+- [JAX: Accelerated Machine Learning Research](https://www.youtube.com/watch?v=z-WSrQDXkuM) - SciPy 2020 video tutorial.
+- [JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) - NeurIPS 2020 video  tutorial.
+- [Introduction To JAX](https://www.youtube.com/watch?v=0mVmRHMaOJ4) - Google Cloud Tech video.
+- [JAX Curated Resource List](https://github.com/n2cholas/awesome-jax) - An extensive list of JAX tutorials, videos, tools, etc.
+
 
 ## Miscellaneous Libraries
 
