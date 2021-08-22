@@ -309,6 +309,7 @@ PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
 - [PyTorch Curated Resources List](https://github.com/ritchieng/the-incredible-pytorch) - An extensive list of PyTorch tutorials, videos, tools, etc.
 - [Interactive Deep Learning Book](https://d2l.ai/) - Elaborate book for deep learning with examples using PyTorch.
 
+
 ### TensorFlow
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
 
@@ -320,7 +321,7 @@ TensorFlow is an end-to-end open source platform for machine learning. It has a 
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) - A tutorial aimed at beginners, includes interactive code examples.
 - [TensorFlow Curated Resource List](https://github.com/jtoy/awesome-tensorflow) - An extensive list of TensorFlow tutorials, videos, tools, etc.
 - [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow tutorials that include a detailed interactive notebook and accompanying video lecture.
-
+- [Interactive Deep Learning Book](https://d2l.ai/) - Elaborate book for deep learning with examples using TensorFlow.
 
 ### JAX
 JAX is [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla), brought together for high-performance numerical computing and machine learning research.
