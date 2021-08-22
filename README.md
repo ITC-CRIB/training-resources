@@ -22,6 +22,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [SpatioTemporal Asset Catalogs](#spatiotemporal-asset-catalogs)
 - [geemap](#geemap)
 - [PyTorch](#pytorch)
+- [TensorFlow](#tensorflow)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -303,6 +304,18 @@ PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
 - [PyTorch tutorials](https://pytorch.org/tutorials/) - Official tutorials for the whole PyTorch ecosystem.
 - [PyTorch video tutorials](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - PyTorch video tutorial series made by Harrison Kinsley.
 - [PyTorch video tutorials](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - PyTorch video tutorial series made by deeplizard.
+
+### TensorFlow
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+
+- [TensorFlow Python Documentation](https://www.tensorflow.org/api_docs/python/tf) - TensorFlow official documentation for Python.
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - Official TensorFlow Github repository.
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials) - Official tutorials for the whole TensorFlow ecosystem.
+- [TensorFlow Guides As Interactive Notebooks](https://www.tensorflow.org/guide) - Official interactive notebook guides for TensorFlow.
+- [TensorFlow Video Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) - TensorFlow beginner video tutorial series made by Aladdin Persson.
+- [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial) - A tutorial aimed at beginners, includes interactive code examples.
+- [TensorFlow Curated Resource List](https://github.com/jtoy/awesome-tensorflow) - An extensive list of TensorFlow tutorials, videos, tools, etc.
+- [TensorFlow Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - TensorFlow tutorials that include a detailed interactive notebook and accompanying video lecture.
 
 ## Miscellaneous Libraries
 
