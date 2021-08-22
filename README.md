@@ -302,9 +302,11 @@ PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html) - Official PyTorch documentation.
 - [PyTorch](https://github.com/pytorch/pytorch) - Official PyTorch Github repository.
 - [PyTorch Examples](https://github.com/pytorch/examples) - Official Github repository containing PyTorch examples. 
-- [PyTorch tutorials](https://pytorch.org/tutorials/) - Official tutorials for the whole PyTorch ecosystem.
-- [PyTorch video tutorials](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - PyTorch video tutorial series made by Harrison Kinsley.
-- [PyTorch video tutorials](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - PyTorch video tutorial series made by deeplizard.
+- [PyTorch Tutorials](https://pytorch.org/tutorials/) - Official tutorials for the whole PyTorch ecosystem.
+- [PyTorch Video Tutorials](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - PyTorch video tutorial series made by Harrison Kinsley.
+- [PyTorch Video Tutorials](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - PyTorch video tutorial series made by deeplizard.
+- [PyTorch Curated Resources List](https://github.com/ritchieng/the-incredible-pytorch) - An extensive list of PyTorch tutorials, videos, tools, etc.
+
 
 ### TensorFlow
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
