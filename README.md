@@ -21,6 +21,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [PySAL](#pysal)
 - [SpatioTemporal Asset Catalogs](#spatiotemporal-asset-catalogs)
 - [geemap](#geemap)
+- [PyTorch](#pytorch)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -291,6 +292,18 @@ geemap is a Python package for interactive mapping with [Google Earth Engine (GE
 - [geemap Jupyter Notebooks](https://github.com/giswqs/earthengine-py-notebooks) - Collection of examples as interactive notebooks for geemap.
 - [geemap Tutorial Series](https://youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3) - Official video tutorials created by geemap author.
 - [geemap list of tutorials](https://github.com/giswqs/geemap/tree/master/examples) - List of official geemap tutorials and examples with links to the resources used in the tutorial.
+
+### PyTorch
+
+PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
+
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html) - Official PyTorch documentation.
+- [PyTorch](https://github.com/pytorch/pytorch) - Official PyTorch Github repository.
+- [PyTorch Examples](https://github.com/pytorch/examples) - Official Github repository containing PyTorch examples. 
+- [PyTorch tutorials](https://pytorch.org/tutorials/) - Official tutorials for the whole PyTorch ecosystem.
+- [PyTorch video tutorials](https://youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh) - PyTorch video tutorial series made by Harrison Kinsley.
+- [PyTorch video tutorials](https://youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - PyTorch video tutorial series made by deeplizard.
+
 ## Miscellaneous Libraries
 
 ### Fiona
