@@ -24,6 +24,7 @@ Please feel free to contribute the adding resources you find useful for geospati
 - [PyTorch](#pytorch)
 - [TensorFlow](#tensorflow)
 - [JAX](#jax)
+- [Textbooks](#textbooks)
 - [Miscellaneous Libraries](#miscellaneous-libraries)
 	- [Fiona](#fiona)
 	- [Xarray-spatial](#xarray-spatial)
@@ -335,6 +336,12 @@ JAX is [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensor
 - [Introduction To JAX](https://www.youtube.com/watch?v=0mVmRHMaOJ4) - Google Cloud Tech video.
 - [JAX Curated Resource List](https://github.com/n2cholas/awesome-jax) - An extensive list of JAX tutorials, videos, tools, etc.
 
+
+## Textbooks
+These are textbooks related to deep learning and geospatial computing. You can also view all the textbooks in the [Textbooks](https://github.com/ITC-CRIB/training-resources/tree/main/Textbooks) folder.
+
+- [Dive into deep learning with pytorch](https://github.com/ITC-CRIB/training-resources/blob/main/Textbooks/dive-into-deep-learning-with-pytorch.pdf)
+- [Fundimentals of remote sensing](https://github.com/ITC-CRIB/training-resources/blob/main/Textbooks/CanadaAgency_2008_FundamentalsOfRemoteSensing.pdf)
 
 ## Miscellaneous Libraries
 
