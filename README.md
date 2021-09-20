@@ -337,7 +337,7 @@ JAX is [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensor
 - [JAX Curated Resource List](https://github.com/n2cholas/awesome-jax) - An extensive list of JAX tutorials, videos, tools, etc.
 
 
-## Textbooks
+### Textbooks
 These are textbooks related to deep learning and geospatial computing. You can also view all the textbooks in the [Textbooks](https://github.com/ITC-CRIB/training-resources/tree/main/Textbooks) folder.
 
 - [Dive into deep learning with pytorch](https://github.com/ITC-CRIB/training-resources/blob/main/Textbooks/dive-into-deep-learning-with-pytorch.pdf)
