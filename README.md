@@ -367,7 +367,7 @@ Geospatial xarray extension powered by rasterio
 
 - [Rio-xarray Documentation](https://corteva.github.io/rioxarray/stable/) - Official documentation for Rio-xarray.
 - [Rio-xarray](https://github.com/corteva/rioxarray) - Official GitHub repository.
-- [Examples](https://corteva.github.io/rioxarray/stable/examples/examples.html) - Official exmaples for Rio-xarray.
+- [Examples](https://corteva.github.io/rioxarray/stable/examples/examples.html) - Official examples for Rio-xarray.
 
 ### Regionmask
 
